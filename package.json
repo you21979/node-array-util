@@ -1,6 +1,6 @@
 {
   "author": "Yuki Akiyama",
-  "name": "array-util",
+  "name": "@you21979/array-util",
   "version": "0.0.1",
   "private": false,
   "dependencies": {
