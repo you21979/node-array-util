@@ -1,0 +1,27 @@
+{
+  "author": "Yuki Akiyama",
+  "name": "array-util",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+  },
+  "readmeFilename": "README.md",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/you21979/node-array-util.git"
+  },
+  "keywords": [
+    "util"
+  ],
+  "bugs": {
+    "url": "https://github.com/you21979/node-array-util/issues"
+  },
+  "license": "MIT"
+}
